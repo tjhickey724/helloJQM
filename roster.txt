@@ -2,16 +2,17 @@
 2 Jon Chu,
 3
 4 hello
-5 hey this is steve and im really serious about git
+5 hey this is steve
 6
 7 Tim Hickey,
 8
 9
 10
-11
+11diditwork?
 12
 
 
+<<<<<<< HEAD
 Jesse Furman doesnt exist on this physical plane
 <<<<<<< HEAD
 
@@ -24,3 +25,6 @@ Jesse Furman doesnt exist on this physical plane
 ////////
 =======
 >>>>>>> origin/serious-work-branch
+=======
+Jesse Furman
+>>>>>>> 5b5fd859ff3830b3d594a562281e943fb47bc0c2

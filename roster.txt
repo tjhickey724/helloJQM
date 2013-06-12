@@ -12,4 +12,19 @@
 12
 
 
+<<<<<<< HEAD
+Jesse Furman doesnt exist on this physical plane
+<<<<<<< HEAD
+
+
+
+////////
+/  0 0//
+/   < //
+/  \_ //
+////////
+=======
+>>>>>>> origin/serious-work-branch
+=======
 Jesse Furman
+>>>>>>> 5b5fd859ff3830b3d594a562281e943fb47bc0c2

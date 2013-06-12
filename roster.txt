@@ -2,7 +2,7 @@
 2 Jon Chu,
 3
 4 hello
-5 hey this is steve
+5 hey this is steve and im really serious about git
 6
 7 Tim Hickey,
 8
@@ -12,4 +12,4 @@
 12
 
 
-Jesse Furman
+Jesse Furman doesnt exist on this physical plane

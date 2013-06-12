@@ -13,6 +13,7 @@
 
 
 Jesse Furman doesnt exist on this physical plane
+<<<<<<< HEAD
 
 
 
@@ -21,3 +22,5 @@ Jesse Furman doesnt exist on this physical plane
 /   < //
 /  \_ //
 ////////
+=======
+>>>>>>> origin/serious-work-branch
